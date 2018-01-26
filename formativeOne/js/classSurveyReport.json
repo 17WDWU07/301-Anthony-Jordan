@@ -1,0 +1,14 @@
+[{"id":1,"age":42,"gender":"Other","star_sign":"Taurus","sushi":1,"campus_rating":0,"political_leaning":"Left"},
+{"id":2,"age":29,"gender":"Female","star_sign":"Gemini","sushi":1,"campus_rating":4,"political_leaning":"Left"},
+{"id":3,"age":22,"gender":"Male","star_sign":"Scorpio","sushi":1,"campus_rating":4,"political_leaning":"Right"},
+{"id":4,"age":24,"gender":"Female","star_sign":"Cancer","sushi":0,"campus_rating":5,"political_leaning":"Right"},
+{"id":5,"age":18,"gender":"Male","star_sign":"Taurus","sushi":1,"campus_rating":3,"political_leaning":"Left"},
+{"id":6,"age":23,"gender":"Female","star_sign":"Scorpio","sushi":1,"campus_rating":4,"political_leaning":"Left"},
+{"id":7,"age":23,"gender":"Male","star_sign":"Gemini","sushi":1,"campus_rating":3,"political_leaning":"Left"},
+{"id":8,"age":30,"gender":"Female","star_sign":"Libra","sushi":1,"campus_rating":5,"political_leaning":"Left"}, 
+{"id":9,"age":22,"gender":"Male","star_sign":"Sagittarius","sushi":1,"campus_rating":5,"political_leaning":"Other"},
+{"id":10,"age":20,"gender":"Male","star_sign":"Capricorn","sushi":1,"campus_rating":5,"political_leaning":"Left"},
+{"id":11,"age":31,"gender":"Male","star_sign":"Scorpio","sushi":1,"campus_rating":3,"political_leaning":"Other"},
+{"id":12,"age":23,"gender":"Male","star_sign":"Aries","sushi":1,"campus_rating":2,"political_leaning":"Right"}
+]
+
